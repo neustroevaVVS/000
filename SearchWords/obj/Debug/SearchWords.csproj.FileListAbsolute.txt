@@ -1,0 +1,15 @@
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\bin\Debug\SearchWords.exe.config
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\bin\Debug\SearchWords.exe
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\bin\Debug\SearchWords.pdb
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\MainWindow.g.cs
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\App.g.cs
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords_MarkupCompile.cache
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords_MarkupCompile.lref
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\MainWindow.baml
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords.g.resources
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords.Properties.Resources.resources
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords.csproj.GenerateResource.cache
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords.exe
+C:\Users\JackYellow\Desktop\SearchWords\SearchWords\obj\Debug\SearchWords.pdb
